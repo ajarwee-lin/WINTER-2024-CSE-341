@@ -1,0 +1,23 @@
+{
+    "contact": {
+        "firstName": "Jarwee",
+        "lastName": "Lincoln",
+        "email": "ajarwee@hotmail.com",
+        "favoriteColor": "blue",
+        "birthday": "1985-07-07"
+    },
+    "contact2": {
+        "firstName": "Jarwee",
+        "lastName": "Lincoln",
+        "email": "ajarwee@hotmail.com",
+        "favoriteColor": "blue",
+        "birthday": "1985-07-07"
+    },
+    "contact3": {
+        "firstName": "Jarwee",
+        "lastName": "Lincoln",
+        "email": "ajarwee@hotmail.com",
+        "favoriteColor": "blue",
+        "birthday": "1985-07-07"
+    }
+}
