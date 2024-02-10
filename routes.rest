@@ -1,0 +1,36 @@
+// LOCALHOST
+### Get all contacts
+
+Get http://localhost:3000/contacts
+
+### Get contact by id
+Get http://localhost:8080/contacts/622023f642f9ab4cd6e060b3
+
+### Create contact
+
+PUT http://localhost:8080/contacts/6220bcb39cd507e920c75a0b HTTP/1.1
+Content-Type: application/json
+
+
+{
+    "firstName": "Jarwee",
+    "lastName": "Jarwee",
+    "email": "ajarwee@gmail.Com",
+    "phone": "1234567890",
+    "birthday": "1990-01-01"
+}
+### PUT contact
+PUT http://localhost:8080/contacts/6220bcb39cd507e920c75a0b HTTP/1.1
+content-type: application/json
+
+{
+    "firstName": "Jarwee",
+    "lastName": "Jarwee",
+    "email": "ajarwee@gmail.Com",
+    "phone": "1234567890",
+    "birthday": "1990-01-01"
+}
+
+### DELETE contact
+
+DELETE http://localhost:8080/contacts/6220b775099269ff7b31ceab HTTP/1.1
