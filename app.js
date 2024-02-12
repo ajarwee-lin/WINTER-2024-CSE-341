@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyparser = require('body-parser');
-const Mongodb = require('./db/connect');
+const Mongodb = require('./config/db.config');
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongodb = require('mongodb');
